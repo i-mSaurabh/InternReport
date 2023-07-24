@@ -1,0 +1,7 @@
+[start_freq ; stepsize; delay time; end frequency; sampling_freq; blocksize]
+30
+2
+10
+34
+1
+10000
